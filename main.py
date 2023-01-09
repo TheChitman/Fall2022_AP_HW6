@@ -63,7 +63,7 @@ class DrawArea(QWidget):
         self.delay = self.lineEdit_2.text()
         self.lines_number = self.lineEdit_3.text()
 
-    # def (self):
+    # def update_paint_event(self):
     #     self.thickness = qw.lineEdit.text()
     #     self.delay = qw.lineEdit_2.text()
     #     self.lines_number = qw.lineEdit_3.text()
